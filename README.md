@@ -17,6 +17,14 @@ const SheW0lf = {
 
 <br>
 
+
+## 💜 CONTRIBUTION GRID
+
+<!-- Requires GitHub Action setup with Platane/snk — see setup notes -->
+![snake](https://raw.githubusercontent.com/SheW0lf/SheW0lf/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
 ## 💜 STACK
 
 <div align="center">
@@ -46,13 +54,6 @@ const SheW0lf = {
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheW0lf&theme=tokyonight&hide_border=true&layout=compact&bg_color=1A1B2E&title_color=7AA2F7&text_color=C0CAF5)](https://github.com/SheW0lf)
 
 </div>
-
-<br>
-
-## 💜 CONTRIBUTION GRID
-
-<!-- Requires GitHub Action setup with Platane/snk — see setup notes -->
-![snake](https://raw.githubusercontent.com/SheW0lf/SheW0lf/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
