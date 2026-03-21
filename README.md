@@ -58,8 +58,6 @@ const SheW0lf = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SheW0lf&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/SheW0lf)
-
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SheW0lf.SheW0lf&color=7AA2F7)
 
 </div>
