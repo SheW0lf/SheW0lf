@@ -8,10 +8,18 @@
 
 ```ts
 const SheW0lf = {
-  role:    "Software Engineer",
-  stack:   ["TypeScript", "React", "React Native", "Rust", "Ruby", "Python", "Node"],
+  role: "Software Engineer",
+  stack: [
+    "TypeScript",
+    "React",
+    "React Native",
+    "Rust",
+    "Ruby",
+    "Python",
+    "Node",
+  ],
   currentlyPlaying: ["Elden Ring", "Valheim", "Enshrouded"],
-  loves:   ["Open World RPGs", "Survival Sandbox", "Late night coding sessions"],
+  loves: ["Open World RPGs", "Survival Sandbox", "Late night coding sessions"],
 };
 ```
 
@@ -39,11 +47,7 @@ const SheW0lf = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SheW0lf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=1A1B2E&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5)](https://github.com/SheW0lf)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SheW0lf&theme=tokyonight&hide_border=true&background=1A1B2E&ring=7AA2F7&fire=FF9E64&currStreakLabel=BB9AF7&sideLabels=C0CAF5&dates=565F89)](https://github.com/SheW0lf)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheW0lf&theme=tokyonight&hide_border=true&layout=compact&bg_color=1A1B2E&title_color=7AA2F7&text_color=C0CAF5)](https://github.com/SheW0lf)
 
 </div>
 
@@ -52,6 +56,7 @@ const SheW0lf = {
 ## 💜 CONTRIBUTION GRID
 
 <!-- Requires GitHub Action setup with Platane/snk — see setup notes -->
+
 ![snake](https://raw.githubusercontent.com/SheW0lf/SheW0lf/output/github-contribution-grid-snake-dark.svg)
 
 <br>
