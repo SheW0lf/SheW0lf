@@ -33,24 +33,6 @@ const SheW0lf = {
 
 <br>
 
-## 💜 STACK
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-7AA2F7?style=for-the-badge&logo=typescript&logoColor=1A1B2E&labelColor=414868)
-![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=1A1B2E&labelColor=414868)
-![React](https://img.shields.io/badge/React-7DCFFF?style=for-the-badge&logo=react&logoColor=1A1B2E&labelColor=414868)
-![React Native](https://img.shields.io/badge/React_Native-7DCFFF?style=for-the-badge&logo=react&logoColor=1A1B2E&labelColor=414868)
-
-![Rust](https://img.shields.io/badge/Rust-BB9AF7?style=for-the-badge&logo=rust&logoColor=1A1B2E&labelColor=414868)
-![Ruby](https://img.shields.io/badge/Ruby-F7768E?style=for-the-badge&logo=ruby&logoColor=1A1B2E&labelColor=414868)
-![Python](https://img.shields.io/badge/Python-9ECE6A?style=for-the-badge&logo=python&logoColor=1A1B2E&labelColor=414868)
-![Node.js](https://img.shields.io/badge/Node.js-9ECE6A?style=for-the-badge&logo=node.js&logoColor=1A1B2E&labelColor=414868)
-
-</div>
-
-<br>
-
 ## 💜 STATS
 
 <div align="center">
