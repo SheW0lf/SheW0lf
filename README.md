@@ -25,6 +25,14 @@ const SheW0lf = {
 
 <br>
 
+## 💜 CONTRIBUTION GRID
+
+<!-- Requires GitHub Action setup with Platane/snk — see setup notes -->
+
+![snake](https://raw.githubusercontent.com/SheW0lf/SheW0lf/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
 ## 💜 STACK
 
 <div align="center">
@@ -53,17 +61,7 @@ const SheW0lf = {
 
 <br>
 
-## 💜 CONTRIBUTION GRID
-
-<!-- Requires GitHub Action setup with Platane/snk — see setup notes -->
-
-![snake](https://raw.githubusercontent.com/SheW0lf/SheW0lf/output/github-contribution-grid-snake-dark.svg)
-
-<br>
-
 <div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SheW0lf&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/SheW0lf)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SheW0lf.SheW0lf&color=7AA2F7)
 
