@@ -25,6 +25,16 @@ const SheW0lf = {
 
 <br>
 
+## 💜 RECENT PROJECTS
+
+<div align="center">
+
+[![grounded-rag-api](https://github-readme-stats.vercel.app/api/pin/?username=SheW0lf&repo=grounded-rag-api&theme=tokyonight&hide_border=true&bg_color=1A1B2E&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5)](https://github.com/SheW0lf/grounded-rag-api)
+
+</div>
+
+<br>
+
 ## 💜 CONTRIBUTION GRID
 
 <!-- Requires GitHub Action setup with Platane/snk — see setup notes -->
