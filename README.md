@@ -18,7 +18,7 @@ const SheW0lf = {
     "Python",
     "Node",
   ],
-  currentlyPlaying: ["Elden Ring", "Valheim", "Enshrouded"],
+  currentlyPlaying: ["Elden Ring", "Enshrouded", "Divinity Original Sin 2"],
   loves: ["Open World RPGs", "Survival Sandbox", "Late night coding sessions"],
 };
 ```
