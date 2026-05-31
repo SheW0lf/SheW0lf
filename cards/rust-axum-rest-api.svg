@@ -1,18 +1,18 @@
-<svg width="400" height="90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="rust-axum-rest-api">
+<svg width="350" height="90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="rust-axum-rest-api">
   <defs>
     <clipPath id="c">
-      <rect width="400" height="90" rx="10"/>
+      <rect width="350" height="90" rx="10"/>
     </clipPath>
   </defs>
 
   <!-- Background + left accent bar -->
   <g clip-path="url(#c)">
-    <rect width="400" height="90" fill="#1A1B2E"/>
+    <rect width="350" height="90" fill="#1A1B2E"/>
     <rect width="4" height="90" fill="#7AA2F7"/>
   </g>
 
   <!-- Border -->
-  <rect x="0.5" y="0.5" width="399" height="89" rx="9.5" fill="none" stroke="#414868"/>
+  <rect x="0.5" y="0.5" width="349" height="89" rx="9.5" fill="none" stroke="#414868"/>
 
   <!-- Repo icon (GitHub octicon-repo) -->
   <g transform="translate(16, 16) scale(1.2)" fill="#BB9AF7">
@@ -26,7 +26,7 @@
   <text x="40" y="50" fill="#565F89" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5">Sample project of an API built with Rust</text>
 
   <!-- Divider -->
-  <line x1="16" y1="62" x2="384" y2="62" stroke="#2A2B3D" stroke-width="1"/>
+  <line x1="16" y1="62" x2="334" y2="62" stroke="#2A2B3D" stroke-width="1"/>
 
   <!-- Rust language dot + label -->
   <circle cx="16" cy="77" r="5" fill="#DEA584"/>

@@ -29,11 +29,7 @@ const SheW0lf = {
 
 <div align="center">
 
-<table border="0"><tr>
-  <td><a href="https://github.com/SheW0lf/grounded-rag-api"><img src="./cards/grounded-rag-api.svg" alt="grounded-rag-api" /></a></td>
-  <td width="16"></td>
-  <td><a href="https://github.com/SheW0lf/rust-axum-rest-api"><img src="./cards/rust-axum-rest-api.svg" alt="rust-axum-rest-api" /></a></td>
-</tr></table>
+<a href="https://github.com/SheW0lf/grounded-rag-api"><img src="./cards/grounded-rag-api.svg" alt="grounded-rag-api" /></a><a href="https://github.com/SheW0lf/rust-axum-rest-api"><img src="./cards/rust-axum-rest-api.svg" alt="rust-axum-rest-api" /></a>
 
 </div>
 
