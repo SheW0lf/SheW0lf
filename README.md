@@ -29,7 +29,9 @@ const SheW0lf = {
 
 <div align="center">
 
-[![grounded-rag-api](https://github-readme-stats.vercel.app/api/pin/?username=SheW0lf&repo=grounded-rag-api&theme=tokyonight&hide_border=true&bg_color=1A1B2E&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5)](https://github.com/SheW0lf/grounded-rag-api)
+<a href="https://github.com/SheW0lf/grounded-rag-api">
+  <img src="./cards/grounded-rag-api.svg" alt="grounded-rag-api" />
+</a>
 
 </div>
 
